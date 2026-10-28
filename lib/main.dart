@@ -16,7 +16,7 @@ class KantinApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
-      title: 'Kantin Kampus',
+      title: 'Warung Kampus',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         useMaterial3: true,

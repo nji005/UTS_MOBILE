@@ -50,7 +50,7 @@ class _MenuListPageState extends State<MenuListPage> {
     return Scaffold(
       appBar: AppBar(
         title: const AppText(
-          'Kantin Kampus',
+          'Warung Kampus',
           size: 20,
           weight: FontWeight.w700,
         ),
